@@ -1,4 +1,4 @@
-#Intro
+# Intro
 1. Weather data analysis
 2. Predict the weather with 8 parameters: (input)
       
